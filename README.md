@@ -13,7 +13,7 @@ Estudante de Tecnologia com foco em desenvolvimento de software, automação e d
 ---
 
 ### 📌 Sobre Mim
-* 🎓 Cursando graduação na área de Tecnologia
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas
 * 🚀 Desenvolvendo projetos práticos em Python e Web
 * 🧠 Estudando fundamentos de Inteligência Artificial e Ciência de Dados
 * 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/leticia-miranda-vieira-7794263b2/) | [E-mail](leticiamirandavieira16@gmail.com)
