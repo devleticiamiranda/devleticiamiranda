@@ -16,7 +16,7 @@ Estudante de Tecnologia com foco em desenvolvimento de software, automação e d
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas
 * 🚀 Desenvolvendo projetos práticos em Python e Web
 * 🧠 Estudando fundamentos de Inteligência Artificial e Ciência de Dados
-* 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/leticia-miranda-vieira-7794263b2/) | [E-mail](leticiamirandavieira16@gmail.com)
+* 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/leticia-miranda-vieira-7794263b2/)
 
 <!--
 **devleticiamiranda/devleticiamiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
